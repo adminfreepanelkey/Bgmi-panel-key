@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "key": "ABCD1234",
+      "status": "active",
+      "expires": "2025-05-12T10:00:00"
+    },
+    {
+      "key": "XYZ9876",
+      "status": "used",
+      "expires": "2025-05-01T10:00:00"
+    }
+  ]
+}
